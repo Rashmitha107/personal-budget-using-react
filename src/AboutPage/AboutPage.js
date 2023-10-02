@@ -1,11 +1,14 @@
-import React from 'react';
 
-function App() {
+
+
+function AboutPage() {
   return (
     <div>
         AboutPage
     </div>
+      
+
   );
 }
 
-export default App;
+export default AboutPage;
